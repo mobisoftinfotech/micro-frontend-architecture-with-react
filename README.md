@@ -1,6 +1,6 @@
 # micro-frontend-architecture-with-react
 
-This repository contains the code for the tutorial: <a href="https://mobisoftinfotech.com/resources/blog/react-micro-frontend-architecture-tutorial-example">Micro-Frontend Architecture with React</a> by <a href="https://mobisoftinfotech.com/services/web-application-development-company">Mobisoft - Web Application Development Company, Houston</a>
+This repository contains the code for the tutorial: <a href="https://mobisoftinfotech.com/resources/blog/react-micro-frontend-architecture-tutorial-example">React Micro Frontend Architecture – An in Depth Tutorial With Example</a> published by <a href="https://mobisoftinfotech.com/services/web-application-development-company">Mobisoft - Web Application Development Company, Houston</a>
 
 ## How to Run the Project
 To run the project locally:
